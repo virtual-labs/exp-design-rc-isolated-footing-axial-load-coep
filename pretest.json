@@ -1,0 +1,68 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The thickness at the edge of the footing shall be not less than:",
+      "answers": {
+        "a": "100 mm",
+        "b": "200 mm",
+        "c": "150 mm",
+        "d": "175 mm"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+	
+    {
+      "question": "The depth of the isolated sloped footing is normally governed by:",
+      "answers": {
+        "a": "bending moment consideration",
+        "b": "shear consideration",
+        "c": "development length consideration",
+        "d": "anchorage length consideration"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },	
+ 
+    {
+      "question": "The greatest bending moment to be used for design of isolated sloped footing shall be the moment computed:",
+      "answers": {
+        "a": "at the face of the column",
+        "b": "at the center of column",
+        "c": "at a distance 'd' from the face of the column",
+        "d": "at a distance 'd/2' from the face of the column"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+  
+	
+	{
+      "question": "Critical section for one-way shear for isolated sloped footing shall be taken",
+      "answers": {
+        "a": "at the face of the column",
+        "b": "at the center of column",
+        "c": "at a distance 'd' from the face of the column",
+        "d": "at a distance 'd/2' from the face of the column"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": "In limit state method the permissible bearing stress shall be",
+      "answers": {
+        "a": "0.45 fck",
+        "b": "0.25 fck",
+        "c": "0.36 fck",
+        "d": "0.5 fck"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+	
+ 
+  ]
+}

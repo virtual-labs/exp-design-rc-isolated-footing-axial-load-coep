@@ -1,0 +1,1 @@
+## Design of RC Isolated Footing with Axial Load

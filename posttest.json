@@ -1,0 +1,68 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+	
+      "question": "Critical section for two-way shear for isolated sloped footing shall be taken",
+      "answers": {
+        "a": "at the face of the column",
+        "b": "at the center of column",
+        "c": "at a distance 'd' from the face of the column",
+        "d": "at a distance 'd/2' from the face of the column"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	
+    {
+      "question": "The nominal minimum cover for footing shall be not less than:",
+      "answers": {
+        "a": "40 mm",
+        "b": "50 mm",
+        "c": "20 mm",
+        "d": "10 mm"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },	
+ 
+    {
+      "question": "The development length check for footing is normally critical in case of:",
+      "answers": {
+        "a": " soil of low bearing capacity",
+        "b": "soil of large bearing capacity",
+        "c": "independent of soil bearing capacity",
+        "d": "none from above"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  
+	
+	{
+      "question": "The size of a footing to support a reinforced concrete column depends upon the",
+      "answers": {
+        "a": "grade of concrete in the column",
+        "b": "load transmitted to the footing by the column",
+        "c": "safe bearing pressure of the soil",
+        "d": "7"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": "The critical section to be considered for checking failure of footing against one way shear is at a distance equal to the",
+      "answers": {
+        "a": "larger dimension of the column from its face",
+        "b": "effective depth of the footing",
+        "c": "least lateral dimension of the column",
+        "d": "Never"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+	
+ 
+  ]
+}

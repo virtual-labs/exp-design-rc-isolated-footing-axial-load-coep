@@ -1,0 +1,211 @@
+.selectConf{
+	
+     height: auto;
+/*     background-color: #3e5064; */
+/*     color: #fff; */
+    font-size: 18px;
+}
+.panelHeadingBold{
+	font-size:21px;
+}
+.labelstyle
+{
+	margin: 5px;
+	font-size:17px;
+}
+
+.btnDesign{
+	    color: #fff;
+/*     background-color: #ff0000; */
+    border-color: #212529;
+}
+
+.spanMsg {
+	background-color: #5c6872;
+    color: #fff;
+    margin: 2px;
+    padding: 1px ;
+    text-align: center;
+    border-radius: 7px;
+    font-weight: 600;
+}
+
+
+
+#msgBox{
+/* 	background-color:red; */
+	margin:20px;
+	font-size:20px;
+}
+.marginBottom{
+	margin-bottom:15px;
+}
+.validMaterialMsgStyle{
+	color: #fff;
+    font-size: 19px;
+    padding: 10px;
+}
+hr.new3 {
+  border-top: 10px dotted red;
+}
+#procedure{
+	padding: 5px;
+    margin-top: 5px;
+    margin-bottom: -50px;
+    font-size: 15px;
+}  
+
+#forceEntered,#calculationVal,#calOutputVoltage,#calCharge
+{
+			background-color: #274460e6;
+			color:#fff;
+/* 			padding:5px 20px 5px 5px; */
+			margin: 2px;
+}
+
+#calVoltage{
+	background-color: #072647;
+			color:#fff;
+			padding:5px 20px 5px 5px;
+			margin: 5px;
+}
+
+
+#concreteLabel,#steelLabel{
+    padding: 4px;
+    text-align: center;
+}
+	
+#testSubmit
+{
+	padding: 10px;
+	color: #fff;
+	font-size: 18px;
+	border-radius: 10px;
+	background-color: #212529;
+	margin: 20px 10px;;
+	letter-spacing: 1px;
+	font-weight: bold;
+/* 	box-shadow: 0 5px #999; */
+}
+#questionDiv .queno
+{ 
+	background-color: #1d2b37;
+    padding: 8px;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: Cambria, Georgia, serif;
+ }
+ 
+ #testSubmit,#nextLevelConfig
+{
+	padding: 10px;
+	color: #fff;
+	font-size: 18px;
+	border-radius: 10px;
+	background-color: #212529;
+	margin: 20px 10px;;
+	letter-spacing: 1px;
+	font-weight: bold;
+/* 	box-shadow: 0 5px #999; */
+}
+.nextLevelBtn {
+	padding: 10px;
+    border-radius: 10px;
+    background-color: #212529;
+    color: #fff;
+    margin: 20px 10px;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+.panel-primary>.panel-heading,.card-header,.modal-header {
+background-color:#072647;
+/* #16555f; */
+/* #31717b; */
+
+	color:#fff;
+	border-color:blue;	
+	font-weight: bold;
+}	
+.boldTextBlue{
+	color:Blue;
+	letter-spacing: 0px;
+	font-size: 18px;
+}
+.boldTextRed{
+	color:Red;
+	letter-spacing: 0px;
+	font-size: 18px;
+}
+.boldTextGreen{
+	color:green;
+	letter-spacing: 0px;
+	font-size: 18px;
+}
+.model
+{
+	padding:0px;
+}  
+
+
+#alertMsgBox{
+	margin-top:25px;
+}
+
+.calRowBorder
+{
+			background-color:#072647; 
+/* 			#45929d; */
+/* 			#31717b; */
+			color:#fff;
+			padding:10px;
+			margin: 2px 2px 15px 2px;
+			margin-bottom:10px;
+}
+
+#checkLfBf{
+	margin:2% 40% 2% 40%;
+	
+}
+
+.symbolstyle
+{
+	margin:1px 1px 1px 1px;
+	font-size:25px;
+}
+
+.symbolstyle2
+{
+	margin:5px;
+	font-size:17px;
+}
+
+.txtstyle{
+	margin:2px 2px 2px 2px ;
+	font-size:16px;
+}
+
+
+.lebleAnswerShow{
+	background-color: #45929d;
+	color:#fff;
+}
+
+.CalLf{
+	
+	text-align: center;
+	margin-left:25px;
+}
+
+
+.labelstyleInfo
+{
+	    border-color: #035161;
+	    
+/* 	background-color: #bad8da; */
+/*     color: #000; */
+/*     width:100%; */
+/*     text-align:center; */
+/*     padding: 5px; */
+}
